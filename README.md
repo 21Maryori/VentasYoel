@@ -1,0 +1,2 @@
+# VentasYoel
+Sistemas de stocks 
